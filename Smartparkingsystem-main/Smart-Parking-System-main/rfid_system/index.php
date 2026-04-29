@@ -361,7 +361,7 @@
     <div class="container">
         <div class="header">
             <div>
-                <h1>🚪 RFID Access Control System</h1>
+                <h1>🚪 RFID Access Control Systemg</h1>
                 <p>Real-time monitoring and management</p>
             </div>
             <div class="button-group">
