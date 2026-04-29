@@ -1,0 +1,4 @@
+python rfid_bridge.py
+
+/python bridge code
+paste it on the terminal
